@@ -151,7 +151,7 @@ export default function App() {
                   subtitle: "핀테크 서비스 기획자",
                   period: "26. 04. 28(화) - 26. 11. 02(월)",
                   image: "https://postfiles.pstatic.net/MjAyNjA0MDlfMzAw/MDAxNzc1NzI1MDY3MDg3.lkwBWAW5qZsU4eKF7n8o2WYBenY3CAAQjiDUMGG70o0g.mL1EFRV-ES_quEDqPPUvqdmZ3Sz1PcbMlpvcqAOaJj4g.JPEG/image_(44).jpg?type=w966",
-                  href: "https://fintech-internship-fullstack-sy.vercel.app"
+                  href: "https://fintech-internship-serviceplanning-sy.vercel.app"
                 }
               ].map((item, idx) => (
                 <motion.a 
