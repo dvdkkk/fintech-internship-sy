@@ -144,7 +144,7 @@ export default function App() {
                   subtitle: "핀테크 풀스택 개발자",
                   period: "26. 04. 28(화) - 26. 11. 02(월)",
                   image: "https://postfiles.pstatic.net/MjAyNjA0MDlfMTU2/MDAxNzc1NzI1MDY3MTI5.H--U0RYkzb-0ipYXNfD4JlOMky3PvTMFVhFzh79vxAMg.YvrriT-1VcyGZ-1Pd5jCrg5xASNNHEZJ1N5ezrZQs4wg.JPEG/image_(43).jpg?type=w966",
-                  href: "https://fintech-internship-fullstack-ih.vercel.app"
+                  href: "https://fintech-internship-fullstack-sy.vercel.app"
                 },
                 {
                   title: "핀테크 서비스 기획자 과정",
